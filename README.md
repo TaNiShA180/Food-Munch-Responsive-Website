@@ -27,7 +27,7 @@ To run this project locally, simply follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/Food-Munch-Responsive-Website.git](https://github.com/YOUR_USERNAME/Food-Munch-Responsive-Website.git)
+    git clone https://github.com/TaNiShA180/Food-Munch-Responsive-Website.git 
     cd Food-Munch-Responsive-Website
     ```
 2.  **Open `index.html` in your web browser:**
