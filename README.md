@@ -39,5 +39,13 @@ To run this project locally, simply follow these steps:
 This project is available under the MIT License.
 ***
 ### Demo 
-https://github.com/user-attachments/assets/adf5c0b9-8266-4cc1-bc45-e02ad1bed3f7
-https://github.com/user-attachments/assets/4a735840-4c88-4c49-aeff-a3dcf0711362
+For medium,large and extra large devices:
+
+
+https://github.com/user-attachments/assets/3ee12e6f-488c-4fff-8079-7b16c0a273d7
+
+
+For extra small,small devices:
+
+
+https://github.com/user-attachments/assets/2598ef6e-51ab-4e9f-a828-2dac7e8f157c
