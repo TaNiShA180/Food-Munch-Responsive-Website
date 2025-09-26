@@ -11,7 +11,18 @@ from mobile phones to desktops. It features a clean design, interactive elements
 * **Interactive UI**: Includes a navigation bar and a promotional gift modal for user engagement.
 * **Modern & Clean Layout**: A visually appealing design to professionally showcase the restaurant's menu and services.
 * **Easy to Customize**: The code is well-structured, making it simple to modify and extend.
+  
+### Demo 
+For medium,large and extra large devices:
 
+
+https://github.com/user-attachments/assets/3ee12e6f-488c-4fff-8079-7b16c0a273d7
+
+
+For extra small,small devices:
+
+
+https://github.com/user-attachments/assets/2598ef6e-51ab-4e9f-a828-2dac7e8f157c
 ***
 ## Technologies Used
 
@@ -38,14 +49,4 @@ To run this project locally, simply follow these steps:
 
 This project is available under the MIT License.
 ***
-### Demo 
-For medium,large and extra large devices:
 
-
-https://github.com/user-attachments/assets/3ee12e6f-488c-4fff-8079-7b16c0a273d7
-
-
-For extra small,small devices:
-
-
-https://github.com/user-attachments/assets/2598ef6e-51ab-4e9f-a828-2dac7e8f157c
